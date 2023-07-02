@@ -5,7 +5,7 @@ ul{
 }
 
 body{
-                font-family: 'Lobster', cursive;
+        font-family: 'Montserrat', sans-serif;
 }
 /* a{
         text-decoration: none;
@@ -81,4 +81,10 @@ list-style: none;
 .img{
        
         border-radius: 20px;
+}
+.contact__text{
+        text-decoration: underline;
+}
+.main-content__words{
+        text-decoration: underline;
 }
